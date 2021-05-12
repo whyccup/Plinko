@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "88290122-e1b9-479b-a49a-a811b36328fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 113,
+  "height": 113,
+  "platformSettings": {},
+  "subMetas": {
+    "Plinko-02": {
+      "ver": "1.0.4",
+      "uuid": "80bf72f8-f458-4370-b81a-9c66d009843a",
+      "rawTextureUuid": "88290122-e1b9-479b-a49a-a811b36328fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 112,
+      "height": 111,
+      "rawWidth": 113,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -5,8 +5,8 @@
     "relativePath": "scripts"
   },
   "9a7714fa-0033-43a0-a7b9-f3eb7b99cdb0": {
-    "asset": 1620774942773,
-    "meta": 1620783477248,
+    "asset": 1620829563651,
+    "meta": 1620956766128,
     "relativePath": "textures"
   },
   "6e549363-4c1b-4a96-883a-19a16bbc80cd": {
@@ -15,29 +15,14 @@
     "relativePath": "audio"
   },
   "3d455dad-64f0-47fc-9892-27c9f1cdc67c": {
-    "asset": 1620786100720,
-    "meta": 1620786100731,
+    "asset": 1620957404860,
+    "meta": 1620957404868,
     "relativePath": "Game.fire"
-  },
-  "88290122-e1b9-479b-a49a-a811b36328fc": {
-    "asset": 1620656948439,
-    "meta": 1620656948473,
-    "relativePath": "textures/Plinko-02.png"
   },
   "2d96ad50-7a1e-4b18-8b9f-c6df0750b42f": {
     "asset": 1620778549593,
     "meta": 1620778549599,
     "relativePath": "textures/wheel.anim"
-  },
-  "b7dc9281-209d-45e3-ae72-925c48f45089": {
-    "asset": 1620698203752,
-    "meta": 1620698203810,
-    "relativePath": "textures/Plinko-03.png"
-  },
-  "0634a6a2-0543-4272-9c43-177d521f6e5d": {
-    "asset": 1620698227828,
-    "meta": 1620698227881,
-    "relativePath": "textures/Plinko-01.png"
   },
   "9836134e-b892-4283-b6b2-78b5acf3ed45": {
     "asset": 1592807258000,
@@ -539,34 +524,49 @@
     "meta": 1620700741244,
     "relativePath": "model/primitives.fbx"
   },
-  "504c0b0f-a262-4016-895c-f56545883d8a": {
-    "asset": 1620774724696,
-    "meta": 1620774726696,
-    "relativePath": "scripts/drop.js"
-  },
   "4145d91d-8d48-4fb4-8863-876869141fa9": {
-    "asset": 1620776994588,
-    "meta": 1620783477246,
+    "asset": 1620829765665,
+    "meta": 1620956766127,
     "relativePath": "prefabe"
-  },
-  "2835e6e5-eb4e-4c43-a7f5-5d0a4c7eff85": {
-    "asset": 1620777014879,
-    "meta": 1620777014884,
-    "relativePath": "prefabe/wheel.prefab"
   },
   "613a1efe-8d5f-4c0f-8da0-332a363068c5": {
     "asset": 1620777592241,
     "meta": 1620777594632,
     "relativePath": "scripts/start.js"
   },
-  "1b2178c0-7ab7-472e-997c-154aa7120ee6": {
-    "asset": 1620778805695,
-    "meta": 1620778808145,
-    "relativePath": "scripts/game.js"
+  "0634a6a2-0543-4272-9c43-177d521f6e5d": {
+    "asset": 1620829455640,
+    "meta": 1620829455720,
+    "relativePath": "textures/Plinko-01.png"
+  },
+  "b7dc9281-209d-45e3-ae72-925c48f45089": {
+    "asset": 1620829550340,
+    "meta": 1620829550409,
+    "relativePath": "textures/Plinko-03.png"
+  },
+  "88290122-e1b9-479b-a49a-a811b36328fc": {
+    "asset": 1620829563653,
+    "meta": 1620829563670,
+    "relativePath": "textures/Plinko-02.png"
+  },
+  "793b55c4-db2f-4dab-8383-9bb641385237": {
+    "asset": 1620829774961,
+    "meta": 1620829774968,
+    "relativePath": "prefabe/wheel.prefab"
   },
   "b4def15b-b48e-40ac-82dd-f2bbded54f6c": {
-    "asset": 1620785604472,
-    "meta": 1620785623055,
+    "asset": 1620832918724,
+    "meta": 1620832928652,
     "relativePath": "scripts/contactForWheel.js"
+  },
+  "504c0b0f-a262-4016-895c-f56545883d8a": {
+    "asset": 1620832923647,
+    "meta": 1620832928713,
+    "relativePath": "scripts/drop.js"
+  },
+  "1b2178c0-7ab7-472e-997c-154aa7120ee6": {
+    "asset": 1620957418613,
+    "meta": 1620957421144,
+    "relativePath": "scripts/game.js"
   }
 }

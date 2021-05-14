@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 268,
-      "y": 389,
+      "x": 0,
+      "y": 23,
       "width": 1792,
       "height": 1017,
       "layout": {
@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 439.234375,
+                "height": 440,
                 "type": "panel",
                 "width": 286
               },
@@ -27,12 +27,12 @@
                 "children": [
                   "assets"
                 ],
-                "height": 491.25,
+                "height": 492.984375,
                 "type": "panel",
                 "width": 286
               }
             ],
-            "height": 933.5,
+            "height": 936,
             "type": "dock-v",
             "width": 286
           },
@@ -43,7 +43,7 @@
                 "children": [
                   "scene"
                 ],
-                "height": 494.25,
+                "height": 495.984375,
                 "type": "panel",
                 "width": 1074
               },
@@ -54,12 +54,12 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 436.234375,
+                "height": 437,
                 "type": "panel",
                 "width": 1074
               }
             ],
-            "height": 933.5,
+            "height": 936,
             "type": "dock-v",
             "width": 1074
           },
@@ -69,7 +69,7 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 933.5,
+            "height": 936,
             "type": "panel",
             "width": 426
           }
@@ -87,12 +87,12 @@
         "cocos-services"
       ]
     },
-    "window-1620786073741": {}
+    "window-1620957563068": {}
   },
   "panels": {
     "project-settings": {
-      "x": 616,
-      "y": 247,
+      "x": 785,
+      "y": 193,
       "width": 584,
       "height": 548
     },

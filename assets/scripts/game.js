@@ -3,7 +3,6 @@ cc.Class({
 
     properties: {
         is_debug: false, //是否显示调试信息;
-        gravity: cc.v2(0, -320), // 重力加速度是一个向量, 有方向的,2D, Vec重力加速度的大小;
         wheel: cc.Node
     },
 
@@ -15,9 +14,10 @@ cc.Class({
         } else {
             cc.director.getPhysicsManager().debugDrawFlags = 0;
         }
-        cc.director.getPhysicsManager().gravity = this.gravity;
         cc.director.getPhysicsManager().enabled = false;
 
+        // // 测试
+        // this.dropTheWheel()
     },
 
     dropTheWheel() {

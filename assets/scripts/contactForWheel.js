@@ -13,9 +13,12 @@ cc.Class({
             if (this._needNotify) {
                 console.log(otherCollider.tag)
                 this._needNotify = false
+
+                // // 测试
+                // cc.director.loadScene('Game');
             }
         } else {
-            selfCollider.restitution = Math.random(0,1).toFixed(2)
+            selfCollider.restitution = Math.random().toFixed(2)
         }
     }
 });

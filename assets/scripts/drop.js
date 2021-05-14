@@ -7,6 +7,16 @@ cc.Class({
         _oldPos: null // 上一个位置
     },
 
+    // // 测试
+    // onLoad() {
+    //     this.node.position = this.dropSlot[getRandomInt(0, this.dropSlot.length)].position
+    //     function getRandomInt(min, max) {
+    //         min = Math.ceil(min);
+    //         max = Math.floor(max);
+    //         return Math.floor(Math.random() * (max - min)) + min; //不含最大值，含最小值
+    //       }
+    // },
+
     start() {
         this._oldPos = this.node.position;
     },

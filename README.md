@@ -1,2 +1,0 @@
-# plinko
-Use Cocos Creator

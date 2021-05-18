@@ -1,7 +1,7 @@
 {
   "6ed68b11-8a41-4f83-8046-1823fdbd6eaa": {
-    "asset": 1620778672379,
-    "meta": 1620783477247,
+    "asset": 1621253923780,
+    "meta": 1621343805524,
     "relativePath": "scripts"
   },
   "9a7714fa-0033-43a0-a7b9-f3eb7b99cdb0": {
@@ -15,8 +15,8 @@
     "relativePath": "audio"
   },
   "3d455dad-64f0-47fc-9892-27c9f1cdc67c": {
-    "asset": 1620957404860,
-    "meta": 1620957404868,
+    "asset": 1621347437688,
+    "meta": 1621347437698,
     "relativePath": "Game.fire"
   },
   "2d96ad50-7a1e-4b18-8b9f-c6df0750b42f": {
@@ -534,11 +534,6 @@
     "meta": 1620777594632,
     "relativePath": "scripts/start.js"
   },
-  "0634a6a2-0543-4272-9c43-177d521f6e5d": {
-    "asset": 1620829455640,
-    "meta": 1620829455720,
-    "relativePath": "textures/Plinko-01.png"
-  },
   "b7dc9281-209d-45e3-ae72-925c48f45089": {
     "asset": 1620829550340,
     "meta": 1620829550409,
@@ -554,11 +549,6 @@
     "meta": 1620829774968,
     "relativePath": "prefabe/wheel.prefab"
   },
-  "b4def15b-b48e-40ac-82dd-f2bbded54f6c": {
-    "asset": 1620832918724,
-    "meta": 1620832928652,
-    "relativePath": "scripts/contactForWheel.js"
-  },
   "504c0b0f-a262-4016-895c-f56545883d8a": {
     "asset": 1620832923647,
     "meta": 1620832928713,
@@ -568,5 +558,45 @@
     "asset": 1620957418613,
     "meta": 1620957421144,
     "relativePath": "scripts/game.js"
+  },
+  "d510ea43-4ad2-4086-9c81-ee369d85332e": {
+    "asset": 1621302643350,
+    "meta": 1621343805525,
+    "relativePath": "sound"
+  },
+  "e6ef33b0-7cec-44ca-8cf3-57e8aace10e8": {
+    "asset": 1621253734114,
+    "meta": 1621253734650,
+    "relativePath": "sound/SoundSuccess.mp3"
+  },
+  "96b3e843-09b6-4a51-a721-52b669316bc4": {
+    "asset": 1621253734114,
+    "meta": 1621302644118,
+    "relativePath": "sound/StartGame.mp3"
+  },
+  "65c9ec1d-dcd4-44c7-a0da-6a93a275bf75": {
+    "asset": 1621253734114,
+    "meta": 1621253734666,
+    "relativePath": "sound/Start.mp3"
+  },
+  "24d88da4-6be6-46cb-86ab-1350293bbba8": {
+    "asset": 1621343922967,
+    "meta": 1621343923499,
+    "relativePath": "sound/Peng.mp3"
+  },
+  "0634a6a2-0543-4272-9c43-177d521f6e5d": {
+    "asset": 1621344045624,
+    "meta": 1621344045704,
+    "relativePath": "textures/Plinko-01.png"
+  },
+  "b4def15b-b48e-40ac-82dd-f2bbded54f6c": {
+    "asset": 1621344588473,
+    "meta": 1621344597440,
+    "relativePath": "scripts/contactForWheel.js"
+  },
+  "259054b4-ba1a-4b2b-9bb9-f138788a4e05": {
+    "asset": 1621346553274,
+    "meta": 1621346553824,
+    "relativePath": "sound/BGM.mp3"
   }
 }

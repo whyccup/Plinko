@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["tyre","ball"],collisionMatrix:[[true,false],[false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Game.fire",orientation:"",jsList:[],bundleVers:{internal:"b25de",main:"88f02"}};

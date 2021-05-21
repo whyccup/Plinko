@@ -1,12 +1,12 @@
 {
   "6ed68b11-8a41-4f83-8046-1823fdbd6eaa": {
-    "asset": 1621253923780,
-    "meta": 1621343805524,
+    "asset": 1621347436674,
+    "meta": 1621347720542,
     "relativePath": "scripts"
   },
   "9a7714fa-0033-43a0-a7b9-f3eb7b99cdb0": {
-    "asset": 1620829563651,
-    "meta": 1620956766128,
+    "asset": 1621432932040,
+    "meta": 1621606509265,
     "relativePath": "textures"
   },
   "6e549363-4c1b-4a96-883a-19a16bbc80cd": {
@@ -15,8 +15,8 @@
     "relativePath": "audio"
   },
   "3d455dad-64f0-47fc-9892-27c9f1cdc67c": {
-    "asset": 1621347437688,
-    "meta": 1621347437698,
+    "asset": 1621608784601,
+    "meta": 1621608784613,
     "relativePath": "Game.fire"
   },
   "2d96ad50-7a1e-4b18-8b9f-c6df0750b42f": {
@@ -560,14 +560,9 @@
     "relativePath": "scripts/game.js"
   },
   "d510ea43-4ad2-4086-9c81-ee369d85332e": {
-    "asset": 1621302643350,
-    "meta": 1621343805525,
+    "asset": 1621346553272,
+    "meta": 1621347720543,
     "relativePath": "sound"
-  },
-  "e6ef33b0-7cec-44ca-8cf3-57e8aace10e8": {
-    "asset": 1621253734114,
-    "meta": 1621253734650,
-    "relativePath": "sound/SoundSuccess.mp3"
   },
   "96b3e843-09b6-4a51-a721-52b669316bc4": {
     "asset": 1621253734114,
@@ -585,18 +580,23 @@
     "relativePath": "sound/Peng.mp3"
   },
   "0634a6a2-0543-4272-9c43-177d521f6e5d": {
-    "asset": 1621344045624,
-    "meta": 1621344045704,
+    "asset": 1621432932045,
+    "meta": 1621432932163,
     "relativePath": "textures/Plinko-01.png"
   },
+  "20346298-1878-4e68-a7ef-73700af1d6ec": {
+    "asset": 1621606559314,
+    "meta": 1621606559349,
+    "relativePath": "textures/mute.png"
+  },
   "b4def15b-b48e-40ac-82dd-f2bbded54f6c": {
-    "asset": 1621344588473,
-    "meta": 1621344597440,
+    "asset": 1621606936359,
+    "meta": 1621606941064,
     "relativePath": "scripts/contactForWheel.js"
   },
-  "259054b4-ba1a-4b2b-9bb9-f138788a4e05": {
-    "asset": 1621346553274,
-    "meta": 1621346553824,
-    "relativePath": "sound/BGM.mp3"
+  "878e47d6-a747-471e-8845-22a5de5bb82f": {
+    "asset": 1621608669578,
+    "meta": 1621608673991,
+    "relativePath": "scripts/mute.js"
   }
 }

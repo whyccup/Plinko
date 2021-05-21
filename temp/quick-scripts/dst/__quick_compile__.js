@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/scripts/game":2,"./assets/scripts/start":1,"./assets/scripts/drop":3,"./assets/scripts/contactForWheel":4},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/start.js"},{"deps":{},"path":"preview-scripts/assets/scripts/game.js"},{"deps":{},"path":"preview-scripts/assets/scripts/drop.js"},{"deps":{},"path":"preview-scripts/assets/scripts/contactForWheel.js"}];
+var scripts = [{"deps":{"./assets/scripts/game":2,"./assets/scripts/mute":5,"./assets/scripts/start":1,"./assets/scripts/contactForWheel":4,"./assets/scripts/drop":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/start.js"},{"deps":{},"path":"preview-scripts/assets/scripts/game.js"},{"deps":{},"path":"preview-scripts/assets/scripts/drop.js"},{"deps":{},"path":"preview-scripts/assets/scripts/contactForWheel.js"},{"deps":{},"path":"preview-scripts/assets/scripts/mute.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

@@ -177,7 +177,7 @@
       "array": [
         0,
         0,
-        390.0497228763507,
+        390.5774571067819,
         0,
         0,
         0,
@@ -6056,7 +6056,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "882b1833-d125-41a8-81f4-7d8baa51a621"
+      "__uuid__": "0c5423c0-fd82-4251-bcdb-6222319674e7"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -6170,6 +6170,13 @@
     },
     "startGameBgm": {
       "__id__": 119
+    },
+    "_mute": false,
+    "off": {
+      "__uuid__": "861b5aff-961c-450c-991e-3203c808b4ca"
+    },
+    "on": {
+      "__uuid__": "0c5423c0-fd82-4251-bcdb-6222319674e7"
     },
     "_id": "35qUg0pzVByLkj4nW8nzcZ"
   }
